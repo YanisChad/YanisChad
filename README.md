@@ -15,6 +15,6 @@ Epitech Toulouse 20
 Ynov Toulouse Campus, B3 Cybersécurité 2022-2026
 
 # Profils : 
-[![RootMe](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://www.root-me.org/yanis-329280?lang=fr#a26194da15c7b8057936aeac2bb7ecae)  **615 pts** 🎯
+[![RootMe](https://img.shields.io/badge/Root%20Me-000000.svg?style=for-the-badge&logo=Root-Me&logoColor=white)](https://www.root-me.org/yanis-329280?lang=fr#a26194da15c7b8057936aeac2bb7ecae)  **615 pts** 🎯
 
-[![RootMe](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](www.linkedin.com/in/yanis-chad) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/yanis-chad) 
