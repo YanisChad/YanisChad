@@ -15,4 +15,4 @@ Epitech Toulouse 20
 Ynov Toulouse Campus, B3 Cybersécurité 2022-2026
 
 # Profil TryHackMe : 
-https://tryhackme-badges.s3.amazonaws.com/yanis.chad.png?3
+<img src="https://tryhackme-badges.s3.amazonaws.com/yanis.chad.png" alt="TryHackMe">
