@@ -11,7 +11,7 @@ Thank you for your visit and have a great moment !
 - 📫 How to reach me: yanis.chad@gmail.com
 
 # Éducation
-Epitech Toulouse _**2021-2022\**_
+Epitech Toulouse _**2021-2022**_\
 Ynov Toulouse Campus, B3 Cybersécurité _**2022-2026**_
 
 # Profils : 
