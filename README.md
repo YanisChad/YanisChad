@@ -14,5 +14,7 @@ Thank you for your visit and have a great moment !
 Epitech Toulouse 20
 Ynov Toulouse Campus, B3 Cybersécurité 2022-2026
 
-# Profil TryHackMe : 
-<img src="https://tryhackme-badges.s3.amazonaws.com/yanis.chad.png" alt="TryHackMe">
+# Profils : 
+[![RootMe](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://www.root-me.org/yanis-329280?lang=fr#a26194da15c7b8057936aeac2bb7ecae)  **615 pts** 🎯
+
+[![RootMe](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](www.linkedin.com/in/yanis-chad) 
